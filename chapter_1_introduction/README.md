@@ -16,9 +16,9 @@ The following topics are covered:
 
 ## Homework
 
-* Homework 1.1 - MongoDB
-* Homework 1.2 - Pymongo
-* Homework 1.3 - Bottle
+* [Homework 1.1 - MongoDB](homework_1_1/README.md)
+* [Homework 1.2 - Pymongo](homework_1_2/README.md)
+* [Homework 1.3 - Bottle](homework_1_3/README.md)
 
 ## What did we learn here?
 
