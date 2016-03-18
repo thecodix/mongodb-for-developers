@@ -5,8 +5,6 @@ Quoting the experts:
 
 Fair enough
 
-PyMongo is a Python distribution containing tools for working with MongoDB, and is the recommended way to work with MongoDB from Python
-
 <img style="float: left;" width="400" height="263" src="https://emptysqua.re/blog/survey-how-do-you-use-python-with-mongodb/Albertus_Seba_Python_sebae.jpg">
 
 
