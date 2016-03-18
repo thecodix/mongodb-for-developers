@@ -24,7 +24,12 @@ The following topics are covered:
 
 Being the introductory chapter, we are presented with the tools and frameworks we will use to interact with MongoDB
 
-### MongoDB <img style="float: left;" src="http://38.media.tumblr.com/avatar_f64075d5c5cf_24.png">
+The training examples are aimed to Mac and Windows users.
+Specific tool versions are encouraged to avoid issues with the training material.
+
+Click on a section to have more details on what's explained in this chapter
+
+### [MongoDB] <img style="float: left;" src="http://38.media.tumblr.com/avatar_f64075d5c5cf_24.png">
 First of all, we are presented the very basics of MongoDB, and the differences between it and classic relational SQL databases
 
 ### Python <img style="float: left;" src="http://www.phidgets.com/wiki/images/thumb/e/e5/Icon-Python.png/16px-Icon-Python.png">
