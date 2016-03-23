@@ -9,7 +9,7 @@ The training is accessible in the [official MongoDB page](https://university.mon
 The schedule listed applies to the March 2016 version of the training, they may vary on future trainings
 
 * [Chapter 1: Introduction](chapter_1_introduction/README.md)
-* Chapter 2: CRUD
+* [Chapter 2: CRUD](chapter_2_crud/README.md)
 * Chapter 3: Schema Design
 * Chapter 4: Performance
 * Chapter 5: Aggregation Framework
