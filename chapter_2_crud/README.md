@@ -8,6 +8,12 @@ This are the topics that will be explained:
 * [How to manipulate MongoDB documents from Python using Pymongo](pymongo/README.md)
 * How to analyze data in MongoDB collections
 
+## Homework
+
+* [Homework 2.1 - MongoDB operations](homework_2_1/README.md)
+* [Homework 2.2 - Cursors](homework_2_2/README.md)
+* [Homework 2.3 - Blog User Sign-up and Login](homework_2_3/README.md)
+
 ## Mongo Shell
 
 The Mongo Shell accepts Javascript syntax. It has shortcuts and autocompletion. 
